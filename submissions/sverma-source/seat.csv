@@ -1,0 +1,3 @@
+seat,id,drink,size,sugar,name,status
+seat-10,36,latte,medium,2,Anita,ready
+seat-10,37,mocha,large,3,Chandni,pending
