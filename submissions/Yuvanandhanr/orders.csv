@@ -1,0 +1,51 @@
+id,drink,size,sugar,name,status
+1,espresso,large,5,Priya,ready
+2,mocha,medium,5,Ananya,pending
+3,flat white,small,1,Meera,ready
+4,latte,medium,5,Anika,cancelled
+5,cappuccino,small,0,Nisha,ready
+6,flat white,small,5,Ananya,pending
+7,latte,medium,2,Aarav,pending
+8,cappuccino,small,0,Rohan,pending
+9,mocha,large,4,Rohan,brewing
+10,filter coffee,large,2,Sana,cancelled
+11,filter coffee,large,1,Kiran,brewing
+12,latte,medium,0,Rhea,ready
+13,filter coffee,large,0,Vikram,collected
+14,flat white,small,4,Ananya,ready
+15,cappuccino,medium,2,Devansh,pending
+16,flat white,small,0,Varun,ready
+17,flat white,large,5,Sana,brewing
+18,latte,large,5,Anika,pending
+19,latte,medium,2,Rhea,brewing
+20,mocha,medium,5,Sana,cancelled
+21,americano,medium,0,Varun,collected
+22,cappuccino,small,3,Ishaan,collected
+23,flat white,medium,0,Meera,ready
+24,mocha,large,2,Ananya,brewing
+25,americano,large,4,Nikhil,brewing
+26,espresso,large,2,Arjun,cancelled
+27,latte,large,4,Arjun,cancelled
+28,latte,medium,5,Kabir,collected
+29,espresso,medium,1,Arjun,pending
+30,cappuccino,large,1,Meera,pending
+31,latte,large,3,Rhea,pending
+32,filter coffee,small,1,Diya,ready
+33,latte,medium,0,Varun,collected
+34,latte,small,2,Kabir,collected
+35,latte,small,5,Tara,collected
+36,latte,medium,0,Aarav,ready
+37,flat white,small,3,Rhea,ready
+38,mocha,large,3,Kabir,ready
+39,mocha,small,2,Nikhil,ready
+40,latte,medium,0,Vikram,cancelled
+41,latte,small,0,Tara,ready
+42,latte,large,2,Ishaan,ready
+43,espresso,large,3,Kabir,brewing
+44,espresso,small,2,Kabir,ready
+45,mocha,large,5,Vikram,ready
+46,latte,medium,1,Meera,collected
+47,flat white,small,2,Aarav,cancelled
+48,espresso,small,4,Vikram,cancelled
+49,latte,large,1,Arjun,collected
+50,cappuccino,medium,3,Ananya,ready
